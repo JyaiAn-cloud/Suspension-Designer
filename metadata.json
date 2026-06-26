@@ -1,0 +1,6 @@
+{
+  "name": "サスペンション諸元シミュレーター",
+  "description": "フロント・リヤのサスペンション幾何学設計（キャンバー、キャスター、トー、アーム長、取付位置）と、ストロークやロール時の挙動変化をリアルタイムに可視化・グラフ表示する設計ツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
